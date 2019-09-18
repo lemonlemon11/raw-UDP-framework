@@ -1,0 +1,77 @@
+rcv          0.00 S               0        0        0
+snd          0.00 SA              0        0        1
+rcv          0.00 A               1        0        1
+rcv          0.00 D               1      100        1
+snd          0.00 A               1        0      101
+rcv          0.00 D             101      100        1
+snd          0.01 A               1        0      201
+rcv          0.01 D             301      100        1
+snd/DA       0.01 A               1        0      201
+rcv          0.01 D             401      100        1
+snd/DA       0.01 A               1        0      201
+rcv          0.01 D             501      100        1
+snd/DA       0.01 A               1        0      201
+rcv          0.01 D             601      100        1
+snd/DA       0.01 A               1        0      201
+rcv          0.02 D             201      100        1
+snd          0.02 A               1        0      701
+rcv          0.02 D             701      100        1
+snd          0.02 A               1        0      801
+rcv          0.02 D             801      100        1
+snd          0.02 A               1        0      901
+rcv          0.02 D             901      100        1
+snd          0.02 A               1        0     1001
+rcv          0.02 D            1001      100        1
+snd          0.02 A               1        0     1101
+rcv          0.02 D            1101      100        1
+snd          0.02 A               1        0     1201
+rcv          0.02 D            1201      100        1
+snd          0.03 A               1        0     1301
+rcv          0.03 D            1301      100        1
+snd          0.03 A               1        0     1401
+rcv          0.03 D            1401      100        1
+snd          0.03 A               1        0     1501
+rcv          0.03 D            1501      100        1
+snd          0.03 A               1        0     1601
+rcv          0.03 D            1601      100        1
+snd          0.03 A               1        0     1701
+rcv          0.03 D            1701      100        1
+snd          0.04 A               1        0     1801
+rcv          0.04 D            1801      100        1
+snd          0.04 A               1        0     1901
+rcv          0.04 D            1901      100        1
+snd          0.04 A               1        0     2001
+rcv          0.04 D            2101      100        1
+snd/DA       0.04 A               1        0     2001
+rcv          0.05 D            2201      100        1
+snd/DA       0.05 A               1        0     2001
+rcv          0.05 D            2301      100        1
+snd/DA       0.05 A               1        0     2001
+rcv          0.05 D            2401      100        1
+snd/DA       0.05 A               1        0     2001
+rcv          0.05 D            2001      100        1
+snd          0.05 A               1        0     2501
+rcv          0.06 D            2501      100        1
+snd          0.06 A               1        0     2601
+rcv          0.06 D            2601      100        1
+snd          0.06 A               1        0     2701
+rcv          0.06 D            2901      100        1
+snd/DA       0.06 A               1        0     2701
+rcv          0.06 D            3001       28        1
+snd/DA       0.06 A               1        0     2701
+rcv          0.47 D            2701      100        1
+snd          0.47 A               1        0     2801
+rcv          0.87 D            2801      100        1
+snd          0.87 A               1        0     3029
+rcv          0.87 F            3029        0        1
+snd          0.87 A               1        0     3030
+snd          0.87 F               1        0     3030
+rcv          0.87 A            3030        0        2
+=============================================================
+Amount of data received (bytes)                           3028
+Total Segments Received                                   35
+Data segments received                                    31
+Data segments with Bit Errors                             0
+Duplicate data segments received                          0
+Duplicate ACKs sent                                       10
+=============================================================
